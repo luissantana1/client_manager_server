@@ -2,7 +2,7 @@
 
 Server side code for my client_manager app
 
-#Getting Started
+## Getting Started
 Generate the database by executing "source ./client_manager.sql" using mysql console.
 
 Add necessary values to the configuration file called config.env
